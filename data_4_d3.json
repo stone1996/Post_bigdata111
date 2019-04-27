@@ -1,234 +1,224 @@
 {
-  "nodes": [
+  "node": [
     {
-      "id": "Y4",
-      "group": 1
+      "group": 1,
+      "id": "Y4"
     },
     {
-      "id": "I4",
-      "group": 1
+      "group": 1,
+      "id": "I4"
     },
     {
-      "id": "I3",
-      "group": 1
+      "group": 1,
+      "id": "I3"
     },
     {
-      "id": "P5",
-      "group": 1
+      "group": 1,
+      "id": "P5"
     },
     {
-      "id": "A3",
-      "group": 1
+      "group": 1,
+      "id": "A3"
     },
     {
-      "id": "Z4",
-      "group": 1
+      "group": 1,
+      "id": "Z4"
     },
     {
-      "id": "P4",
-      "group": 1
+      "group": 1,
+      "id": "P4"
     },
     {
-      "id": "V4",
-      "group": 1
+      "group": 1,
+      "id": "V4"
     },
     {
-      "id": "H4",
-      "group": 1
+      "group": 1,
+      "id": "H4"
     },
     {
-      "id": "W2",
-      "group": 1
+      "group": 1,
+      "id": "W2"
     },
     {
-      "id": "Z2",
-      "group": 1
+      "group": 1,
+      "id": "Z2"
     },
     {
-      "id": "I2",
-      "group": 1
+      "group": 1,
+      "id": "I2"
     },
     {
-      "id": "T2",
-      "group": 1
+      "group": 1,
+      "id": "T2"
     },
     {
-      "id": "A1",
-      "group": 1
+      "group": 1,
+      "id": "A1"
     },
     {
-      "id": "V2",
-      "group": 1
+      "group": 1,
+      "id": "V2"
     },
     {
-      "id": "I7",
-      "group": 1
+      "group": 1,
+      "id": "I7"
     },
     {
-      "id": "A2",
-      "group": 1
+      "group": 1,
+      "id": "A2"
     },
     {
-      "id": "G2",
-      "group": 1
+      "group": 1,
+      "id": "G2"
     },
     {
-      "id": "T5",
-      "group": 1
+      "group": 1,
+      "id": "T5"
     },
     {
-      "id": "X2",
-      "group": 1
+      "group": 1,
+      "id": "X2"
     },
     {
-      "id": "VL",
-      "group": 1
+      "group": 1,
+      "id": "VL"
     },
     {
-      "id": "H7",
-      "group": 1
+      "group": 1,
+      "id": "H7"
     },
     {
-      "id": "Z1",
-      "group": 1
+      "group": 1,
+      "id": "Z1"
     },
     {
-      "id": "G1",
-      "group": 1
+      "group": 1,
+      "id": "G1"
     },
     {
-      "id": "I1",
-      "group": 1
+      "group": 1,
+      "id": "I1"
     },
     {
-      "id": "Y7",
-      "group": 1
+      "group": 1,
+      "id": "Y7"
     },
     {
-      "id": "V3",
-      "group": 1
+      "group": 1,
+      "id": "V3"
     },
     {
-      "id": "T4",
-      "group": 1
+      "group": 1,
+      "id": "T4"
     },
     {
-      "id": "S2",
-      "group": 1
+      "group": 1,
+      "id": "S2"
     },
     {
-      "id": "G3",
-      "group": 1
+      "group": 1,
+      "id": "G3"
     },
     {
-      "id": "I5",
-      "group": 1
+      "group": 1,
+      "id": "I5"
     },
     {
-      "id": "T1",
-      "group": 1
+      "group": 1,
+      "id": "T1"
     }
   ],
-  "links": [
+  "link": [
     {
-      "target": "I4",
-      "source": "Y4",
-      "value": 40
+      "value": 40,
+      "target": "I",
+      "source": "Y"
     },
     {
-      "target": "W2",
-      "source": "H4",
-      "value": 20
+      "value": 20,
+      "target": "W",
+      "source": "H"
     },
     {
-      "target": "I4",
-      "source": "W2",
-      "value": 16
+      "value": 17,
+      "target": "I",
+      "source": "W"
     },
     {
-      "target": "I4",
-      "source": "I4",
-      "value": 6
+      "value": 6,
+      "target": "I",
+      "source": "I"
     },
     {
-      "target": "H4",
-      "source": "Y4",
-      "value": 5
+      "value": 5,
+      "target": "H",
+      "source": "Y"
     },
     {
-      "target": "Y4",
-      "source": "Y4",
-      "value": 4
+      "value": 4,
+      "target": "Y",
+      "source": "Y"
     },
     {
-      "target": "Y4",
-      "source": "I4",
-      "value": 3
+      "value": 3,
+      "target": "Y",
+      "source": "Z"
     },
     {
-      "target": "P4",
-      "source": "Z2",
-      "value": 3
+      "value": 3,
+      "target": "P",
+      "source": "Z"
     },
     {
-      "target": "Y4",
-      "source": "Z4",
-      "value": 3
+      "value": 3,
+      "target": "Y",
+      "source": "I"
     },
     {
-      "target": "Z2",
-      "source": "H4",
-      "value": 1
+      "value": 2,
+      "target": "H",
+      "source": "X"
     },
     {
-      "target": "Z4",
-      "source": "V2",
-      "value": 1
+      "value": 1,
+      "target": "Z",
+      "source": "A"
     },
     {
-      "target": "G2",
-      "source": "Y4",
-      "value": 1
+      "value": 1,
+      "target": "Z",
+      "source": "H"
     },
     {
-      "target": "H7",
-      "source": "X2",
-      "value": 1
+      "value": 1,
+      "target": "G",
+      "source": "Y"
     },
     {
-      "target": "Z4",
-      "source": "A1",
-      "value": 1
+      "value": 1,
+      "target": "I",
+      "source": "X"
     },
     {
-      "target": "I4",
-      "source": "G2",
-      "value": 1
+      "value": 1,
+      "target": "Z",
+      "source": "V"
     },
     {
-      "target": "I7",
-      "source": "W2",
-      "value": 1
+      "value": 1,
+      "target": "I",
+      "source": "G"
     },
     {
-      "target": "H4",
-      "source": "H4",
-      "value": 1
+      "value": 1,
+      "target": "H",
+      "source": "H"
     },
     {
-      "target": "H4",
-      "source": "X2",
-      "value": 1
-    },
-    {
-      "target": "P5",
-      "source": "P5",
-      "value": 1
-    },
-    {
-      "target": "I4",
-      "source": "X2",
-      "value": 1
+      "value": 1,
+      "target": "P",
+      "source": "P"
     }
   ]
 }
