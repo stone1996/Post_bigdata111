@@ -1,5 +1,107 @@
 {
-  "node": [
+  "links": [
+    {
+      "value": 40,
+      "target": "I4",
+      "source": "Y4"
+    },
+    {
+      "value": 20,
+      "target": "W2",
+      "source": "H4"
+    },
+    {
+      "value": 16,
+      "target": "I4",
+      "source": "W2"
+    },
+    {
+      "value": 6,
+      "target": "I4",
+      "source": "I4"
+    },
+    {
+      "value": 5,
+      "target": "H4",
+      "source": "Y4"
+    },
+    {
+      "value": 4,
+      "target": "Y4",
+      "source": "Y4"
+    },
+    {
+      "value": 3,
+      "target": "Y4",
+      "source": "I4"
+    },
+    {
+      "value": 3,
+      "target": "P4",
+      "source": "Z2"
+    },
+    {
+      "value": 3,
+      "target": "Y4",
+      "source": "Z4"
+    },
+    {
+      "value": 1,
+      "target": "H4",
+      "source": "H4"
+    },
+    {
+      "value": 1,
+      "target": "Z2",
+      "source": "H4"
+    },
+    {
+      "value": 1,
+      "target": "G2",
+      "source": "Y4"
+    },
+    {
+      "value": 1,
+      "target": "I4",
+      "source": "G2"
+    },
+    {
+      "value": 1,
+      "target": "I4",
+      "source": "X2"
+    },
+    {
+      "value": 1,
+      "target": "H7",
+      "source": "X2"
+    },
+    {
+      "value": 1,
+      "target": "P5",
+      "source": "P5"
+    },
+    {
+      "value": 1,
+      "target": "H4",
+      "source": "X2"
+    },
+    {
+      "value": 1,
+      "target": "I7",
+      "source": "W2"
+    },
+    {
+      "value": 1,
+      "target": "Z4",
+      "source": "A1"
+    },
+    {
+      "value": 1,
+      "target": "Z4",
+      "source": "V2"
+    }
+  ],
+  "nodes": [
     {
       "group": 1,
       "id": "Y4"
@@ -127,98 +229,6 @@
     {
       "group": 1,
       "id": "T1"
-    }
-  ],
-  "link": [
-    {
-      "value": 40,
-      "target": "I",
-      "source": "Y"
-    },
-    {
-      "value": 20,
-      "target": "W",
-      "source": "H"
-    },
-    {
-      "value": 17,
-      "target": "I",
-      "source": "W"
-    },
-    {
-      "value": 6,
-      "target": "I",
-      "source": "I"
-    },
-    {
-      "value": 5,
-      "target": "H",
-      "source": "Y"
-    },
-    {
-      "value": 4,
-      "target": "Y",
-      "source": "Y"
-    },
-    {
-      "value": 3,
-      "target": "Y",
-      "source": "Z"
-    },
-    {
-      "value": 3,
-      "target": "P",
-      "source": "Z"
-    },
-    {
-      "value": 3,
-      "target": "Y",
-      "source": "I"
-    },
-    {
-      "value": 2,
-      "target": "H",
-      "source": "X"
-    },
-    {
-      "value": 1,
-      "target": "Z",
-      "source": "A"
-    },
-    {
-      "value": 1,
-      "target": "Z",
-      "source": "H"
-    },
-    {
-      "value": 1,
-      "target": "G",
-      "source": "Y"
-    },
-    {
-      "value": 1,
-      "target": "I",
-      "source": "X"
-    },
-    {
-      "value": 1,
-      "target": "Z",
-      "source": "V"
-    },
-    {
-      "value": 1,
-      "target": "I",
-      "source": "G"
-    },
-    {
-      "value": 1,
-      "target": "H",
-      "source": "H"
-    },
-    {
-      "value": 1,
-      "target": "P",
-      "source": "P"
     }
   ]
 }
